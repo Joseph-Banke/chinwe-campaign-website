@@ -30,7 +30,7 @@ export default function Video() {
 
         {/* Caption */}
         <p className="font-body text-base sm:text-lg italic text-muted text-center mt-6 sm:mt-8 max-w-[700px] mx-auto px-2">
-          &ldquo;Watch Chinwe explain her vision for transforming research culture at LAWSAN&rdquo;
+          A message from Chinwe
         </p>
       </div>
     </section>

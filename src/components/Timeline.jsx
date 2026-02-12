@@ -5,9 +5,9 @@ const events = [
       'Authored and published research under the African Clean Up Initiative, contributing original findings on environmental policy and sustainable development across the continent.',
   },
   {
-    title: 'SAT Score: 1570 / 1600',
+    title: '99th Percentile SAT & 9 WAEC Distinctions',
     description:
-      'Achieved a near-perfect SAT score of 1570, placing in the 99th percentile nationally and demonstrating exceptional aptitude in critical reading, writing, and mathematics.',
+      'Scored in the 99th percentile on the SAT and earned 9 distinctions in WAEC, demonstrating exceptional academic ability across all disciplines.',
   },
   {
     title: 'Multiple Foreign & National Scholarships',
@@ -37,7 +37,7 @@ const events = [
   {
     title: 'Foreign Educational Bodies — College Partnerships',
     description:
-      'Collaborated with international educational organizations throughout college, facilitating cross-border academic partnerships and expanding access to global educational opportunities for students.',
+      'Collaborated with international educational organizations throughout high school, facilitating cross-border academic partnerships and expanding access to global educational opportunities for students.',
   },
 ]
 
