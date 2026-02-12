@@ -63,7 +63,7 @@ export default function Hero() {
               style={{ background: 'linear-gradient(135deg, #ff5722 0%, #f4a025 100%)' }}
             >
               <p className="font-heading text-white font-bold uppercase text-xs sm:text-sm md:text-base tracking-[0.1em] sm:tracking-[0.15em]">
-                Unity, Excellence, Innovation
+                Publishing Success
               </p>
             </div>
           </div>

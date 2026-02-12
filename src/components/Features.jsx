@@ -1,7 +1,7 @@
 const features = [
   {
     icon: 'fa-trophy',
-    title: ['WHY ', 'CHINWE'],
+    title: ['WHY ', 'ME'],
     description:
       'A proven track record of academic excellence, research leadership, and a passion for empowering fellow students to reach their full potential.',
     link: '#about',
@@ -15,9 +15,9 @@ const features = [
   },
   {
     icon: 'fa-bullseye',
-    title: ['OUR ', 'MISSION'],
+    title: ['MY ', 'MISSION'],
     description:
-      'Discover the vision for LAWSAN research excellence — a future where every law student has the tools and support to produce impactful scholarly work.',
+      'Publishing success — ensuring every law student has the tools, support, and platform to produce and publish impactful scholarly work.',
     link: '#about',
   },
 ]

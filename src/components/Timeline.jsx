@@ -1,39 +1,43 @@
 const events = [
   {
-    year: '2025',
     title: 'Published Research — African Clean Up Initiative',
     description:
       'Authored and published research under the African Clean Up Initiative, contributing original findings on environmental policy and sustainable development across the continent.',
   },
   {
-    year: '2024',
     title: 'SAT Score: 1570 / 1600',
     description:
       'Achieved a near-perfect SAT score of 1570, placing in the 99th percentile nationally and demonstrating exceptional aptitude in critical reading, writing, and mathematics.',
   },
   {
-    year: '2024',
-    title: 'Multiple Ivy League Scholarships',
+    title: 'Multiple Foreign & National Scholarships',
     description:
-      'Earned prestigious scholarships to multiple top-tier universities including Ivy League institutions such as Dartmouth College — a testament to outstanding academic merit and leadership potential.',
+      'Earned four prestigious scholarships to universities both nationally and abroad, including Louisiana State University (LSU), recognizing outstanding academic merit and leadership potential.',
   },
   {
-    year: '2024',
-    title: 'Scholarship Mentorship & Advocacy',
+    title: 'Mentored Friends to Ivy League Scholarships',
     description:
-      'Guided and mentored friends through the scholarship application process, helping them secure full-ride offers to Ivy League universities including Dartmouth and other elite institutions.',
+      'Guided and mentored friends through the scholarship application process, helping them secure offers to Ivy League universities including Dartmouth and other elite institutions.',
   },
   {
-    year: '2023',
+    title: 'National Travel Essay Competition — First Runner-Up',
+    description:
+      'Achieved first runner-up in the National Travel Essay Competition two consecutive years, showcasing exceptional writing ability, critical thinking, and research depth.',
+  },
+  {
     title: 'Self-Taught Machine Learning Engineer',
     description:
       'Independently mastered machine learning and artificial intelligence, building real-world projects and producing multiple educational video tutorials that have helped aspiring engineers learn the field.',
   },
   {
-    year: '2023',
-    title: 'Research-Driven Career Achievements',
+    title: 'Federal Airport Authority — Technical Team',
     description:
-      'Leveraged a strong research background to secure multiple competitive positions and awarded roles, demonstrating that rigorous academic inquiry translates directly into professional excellence.',
+      'Worked under the technical team at the Federal Airport Authority of Nigeria, bringing technological innovation and legal insight to modernize operations and bridge the gap between technology and law.',
+  },
+  {
+    title: 'Foreign Educational Bodies — College Partnerships',
+    description:
+      'Collaborated with international educational organizations throughout college, facilitating cross-border academic partnerships and expanding access to global educational opportunities for students.',
   },
 ]
 
