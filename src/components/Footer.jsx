@@ -74,7 +74,6 @@ export default function Footer() {
             &copy; 2026 Igweonu Chinwe Praise Campaign. All rights reserved.
           </p>
           <p className="font-body text-xs text-[#777] mt-1">
-            Made by her Boyfriend 😎
           </p>
         </div>
       </div>
