@@ -7,7 +7,7 @@ const endorsements = [
     initials: 'TO',
   },
   {
-    name: 'Tobena Igweonu',
+    name: 'Tobenna Igweonu',
     title: 'Binance — Legal Member',
     quote:
       'Chinwe\'s passion for academic excellence is infectious. She doesn\'t just talk about change — she drives it. I wholeheartedly endorse her candidacy for this critical position.',
